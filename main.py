@@ -65,6 +65,6 @@ if __name__ == "__main__":
     async def schedule_messages():
         while True:
             await send_random_message()
-            await asyncio.sleep(3600)
+            await asyncio.sleep(5)
     
     asyncio.run(schedule_messages())
