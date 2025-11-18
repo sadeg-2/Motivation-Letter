@@ -29,7 +29,7 @@ async def main():
 
     while True:
        await send_random_message(bot)
-       time.sleep(5)  # انتظر ساعة قبل إرسال الرسالة التالية
+       time.sleep(3600)  # انتظر ساعة قبل إرسال الرسالة التالية
 
 
 if __name__ == "__main__":
