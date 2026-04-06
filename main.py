@@ -64,7 +64,7 @@ async def send_message():
 async def bot_loop():
     while True:
         await send_message()
-        await asyncio.sleep(3600)  # كل ساعة رسالة جديدة
+        await asyncio.sleep(50)  # كل ساعة رسالة جديدة
 
 # ==============================
 # Endpoint ويب للحفاظ على الخدمة awake
