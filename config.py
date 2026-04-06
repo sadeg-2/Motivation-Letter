@@ -1,3 +1,5 @@
+import os
+
 TOKEN = "8598959396:AAFtoyb6A2emYDzbrO2uxSNzy4Ncxgau1AM"
 GROUP_CHAT_ID = -1003328150329  # استبدل بمعرف المجموعة الصحيح
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
