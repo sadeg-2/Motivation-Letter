@@ -60,6 +60,10 @@ def home():
     message = loop.run_until_complete(send_message())
     return f"Bot sent message! ✅\n\n{message}"
 
+@app.route("/t")
+def t():
+    return f"Bot sent message! ✅\n\n{OPENROUTER_API_KEY}asdfasdf"
+
 # ==============================
 # تشغيل Flask
 # ==============================
