@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29240045-55e4-42c6-8d13-60a60cb05a6a" name="Changes" comment="update code">
+    <list default="true" id="29240045-55e4-42c6-8d13-60a60cb05a6a" name="Changes" comment="update code 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,7 +250,15 @@
       <option name="project" value="LOCAL؜" />
       <updated>1775497832589</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL؜-٠٠٠١٠" summary="update code 3">
+      <option name="closed" value="true" />
+      <created>1775498597011</created>
+      <option name="number" value="٠٠٠١٠" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠١٠" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1775498597011</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -258,6 +266,18 @@
     <MESSAGE value="make the messages every hour sending" />
     <MESSAGE value="add proc file" />
     <MESSAGE value="update code" />
-    <option name="LAST_COMMIT_MESSAGE" value="update code" />
+    <MESSAGE value="update code 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="update code 3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
