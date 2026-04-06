@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29240045-55e4-42c6-8d13-60a60cb05a6a" name="Changes" comment="add proc file">
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+    <list default="true" id="29240045-55e4-42c6-8d13-60a60cb05a6a" name="Changes" comment="update code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,14 +226,38 @@
       <option name="project" value="LOCAL؜" />
       <updated>1763554791378</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL؜-٠٠٠٠٧" summary="update code">
+      <option name="closed" value="true" />
+      <created>1775497625093</created>
+      <option name="number" value="٠٠٠٠٧" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٧" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1775497625093</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٨" summary="update code">
+      <option name="closed" value="true" />
+      <created>1775497655344</created>
+      <option name="number" value="٠٠٠٠٨" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٨" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1775497655344</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٩" summary="update code">
+      <option name="closed" value="true" />
+      <created>1775497832589</created>
+      <option name="number" value="٠٠٠٠٩" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٩" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1775497832589</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finish development" />
-    <MESSAGE value="update code" />
     <MESSAGE value="make the messages every hour sending" />
     <MESSAGE value="add proc file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add proc file" />
+    <MESSAGE value="update code" />
+    <option name="LAST_COMMIT_MESSAGE" value="update code" />
   </component>
 </project>
