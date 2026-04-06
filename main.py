@@ -86,5 +86,6 @@ if __name__ == "__main__":
     t = threading.Thread(target=start_async_loop, args=(loop,))
     t.start()
 
+
     # تشغيل Flask
     app.run(host="0.0.0.0", port=10000)
