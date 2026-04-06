@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29240045-55e4-42c6-8d13-60a60cb05a6a" name="Changes" comment="finish development">
+    <list default="true" id="29240045-55e4-42c6-8d13-60a60cb05a6a" name="Changes" comment="add proc file">
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,38 +25,39 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sadeg-2"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sadeg-2&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sadeg-2/Motivation-Letter.git",
-    "accountId": "6ce9ac7b-5237-46a7-b811-0c4f0b849a29"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sadeg-2/Motivation-Letter.git&quot;,
+    &quot;accountId&quot;: &quot;6ce9ac7b-5237-46a7-b811-0c4f0b849a29&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="35dtD3Vp56NDdj0p2jocMXu3qod" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.arabic_quotes.executor": "Run",
-    "Python.getGroupId.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.motivational_letters.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/FlasKProjects/PythonProject/MotivationLetter"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.arabic_quotes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.getGroupId.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.motivational_letters.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/FlasKProjects/PythonProject/MotivationLetter&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\FlasKProjects\PythonProject\MotivationLetter" />
@@ -192,11 +196,46 @@
       <option name="project" value="LOCAL؜" />
       <updated>1763456262151</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL؜-٠٠٠٠٣" summary="finish development">
+      <option name="closed" value="true" />
+      <created>1763458293216</created>
+      <option name="number" value="٠٠٠٠٣" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٣" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1763458293216</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٤" summary="update code">
+      <option name="closed" value="true" />
+      <created>1763458789895</created>
+      <option name="number" value="٠٠٠٠٤" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٤" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1763458789895</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٥" summary="make the messages every hour sending">
+      <option name="closed" value="true" />
+      <created>1763459346671</created>
+      <option name="number" value="٠٠٠٠٥" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٥" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1763459346671</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٦" summary="add proc file">
+      <option name="closed" value="true" />
+      <created>1763554791378</created>
+      <option name="number" value="٠٠٠٠٦" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٦" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1763554791378</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finish development" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish development" />
+    <MESSAGE value="update code" />
+    <MESSAGE value="make the messages every hour sending" />
+    <MESSAGE value="add proc file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add proc file" />
   </component>
 </project>
